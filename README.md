@@ -5,7 +5,7 @@ An interactive Electric Vehicle Market Performance project that combines data vi
 ## 🌐 Project Links
 
 - **Live Website:** [EV Market Performance](https://ev-market-performance.onrender.com)
-- **Project Demonstration Video:** [Watch Demo Video](https://drive.google.com/file/d/1sgE--LV4atRSZhFdNsD_ebACu_LFwsam/view?usp=drive_link)
+- **Project Demonstration Video:** [Watch Demo Video](https://drive.google.com/file/d/1R51pV3j0PgwJ2ZGgTuG6jw-toaI0JGgE/view?usp=drive_link)
 
 ## 📌 Project Overview
 
@@ -123,7 +123,7 @@ The GitHub repository is connected to Render, and the Flask application is deplo
 
 Watch the complete project demonstration to understand the dashboard, Tableau Story, website development, GitHub repository and deployment process.
 
-[▶ Watch EV Market Performance Project Demo](https://drive.google.com/file/d/1sgE--LV4atRSZhFdNsD_ebACu_LFwsam/view?usp=drive_link)
+[▶ Watch EV Market Performance Project Demo](https://drive.google.com/file/d/1R51pV3j0PgwJ2ZGgTuG6jw-toaI0JGgE/view?usp=drive_link)
 
 ## 👨‍💻 Author
 
